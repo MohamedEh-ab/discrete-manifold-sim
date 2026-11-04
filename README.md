@@ -3,7 +3,7 @@
 An execution-based computational physics engine designed to bypass the circular dependency paradox of dynamic metric tensors using discrete differential geometry.
 
 <p align="center">
-  <img src="output/manifold_simulation.gif" width="300" alt="Discrete Manifold Simulation">
+  <img src="output/manifold_simulation.gif" width="500" alt="Discrete Manifold Simulation">
 </p>
 
 *Above: Spontaneous symmetry breaking and the emergence of vascular topologies from maximum entropy.*
@@ -29,22 +29,30 @@ By firing stochastic paths through these local constraints, the system acts as a
 By altering the fundamental hyperparameters (`EPSILON` and `MOMENTUM`), the engine reliably maps discrete topological phase transitions:
 
 ### 1. The Highway Emergence
-![The Artery](output/emergent_topological_highways.png)
+<p align="center">
+  <img src="output/emergent_topological_highways.png" width="500" alt="Highway Emergence">
+</p>
 
 At stable parameters (`EPSILON = 0.05`), the random static of the starting grid collapses. Particles negotiate a path of least geometric friction, spontaneously squeezing the 2D space into 1D superhighways (eigenvalue separation/dimensional collapse).
 
 ### 2. The Shatter-Point (Topological Boiling)
-![The Shatter](output/test1.png)
+<p align="center">
+  <img src="output/test1.png" width="500" alt="Emergence">
+</p>
 
 By increasing the mutation rate (`EPSILON = 0.9`), the feedback loop overcorrects violently. The metric tears itself apart before stable geodesics can form, proving the boundaries of the bounded merge.
 
 ### 3. Absolute Zero Inertia (The Crystal Lattice)
-![The Crystal](output/test2.png)
+<p align="center">
+  <img src="output/test2.png" width="500" alt="Crystal">
+</p>
 
 By killing the momentum of the particles (`MOMENTUM = 0.05`), the vectors become trapped by the local mirrors. The space gridlocks into rigid, closed geometric cages and cellular loops.
 
 ### 4. The Particle Flood (Fluid Dynamics)
-![The Flood](output/test3.png)
+<p align="center">
+  <img src="output/test3.png" width="500" alt="Flood">
+</p>
 
 Flooding the system with 10x the particles at a lower mutation rate (`EPSILON = 0.01`) widens the sharp geodesics into turbulent, thick rivers, demonstrating emergent fluid dynamics within the tensor field.
 

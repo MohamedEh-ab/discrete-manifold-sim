@@ -2,7 +2,9 @@
 
 An execution-based computational physics engine designed to bypass the circular dependency paradox of dynamic metric tensors using discrete differential geometry.
 
-![Live Simulation Animation](output/manifold_simulation.gif)
+<p align="center">
+  <img src="manifold_simulation.gif" width="500" alt="Discrete Manifold Simulation">
+</p>
 
 *Above: Spontaneous symmetry breaking and the emergence of vascular topologies from maximum entropy.*
 

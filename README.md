@@ -26,7 +26,7 @@ By firing stochastic paths through these local constraints, the system acts as a
 
 By altering the fundamental hyperparameters (`EPSILON` and `MOMENTUM`), the engine reliably maps discrete topological phase transitions:
 
-### 1. The Highway Emergence (Success State)
+### 1. The Highway Emergence
 ![The Artery](output/emergent_topological_highways.png)
 
 At stable parameters (`EPSILON = 0.05`), the random static of the starting grid collapses. Particles negotiate a path of least geometric friction, spontaneously squeezing the 2D space into 1D superhighways (eigenvalue separation/dimensional collapse).
@@ -65,5 +65,3 @@ python emergent_manifold.py
 
 ## Conclusion
 This sandbox proves a fundamental sufficiency theorem: **You do not need complex, pre-calculated global equations to generate stable, high-dimensional structures.** Simple, local geometric friction—when allowed to execute over time—is entirely sufficient to spontaneously generate them. 
-
----
